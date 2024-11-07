@@ -7,7 +7,24 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">zadanie1</string>
+    <string name="menu_gallery">zadanie2</string>
+    <string name="zad2">zadanie2</string>
+    <string name="zad1">zadanie1</string>
+    <string name="zad3">zadanie3</string>
+    <string name="zad4">zadanie4</string>
+    <string name="zad5">zadanie5</string>
+    <string name="zad6">zadanie6</string>
+    <string name="zad7">zadanie7</string>
+    <string name="zad8">zadanie8</string>
+    <string name="zad9">zadanie9</string>
+    <string name="zad10">zadanie10</string>
+    <string name="zad11">zadanie11</string>
+    <string name="zad12">zadanie12</string>
+    <string name="zad13">zadanie13</string>
+    <string name="zad14">zadanie14</string>
+    <string name="zad15">zadanie15</string>
+
+
+
 </resources>

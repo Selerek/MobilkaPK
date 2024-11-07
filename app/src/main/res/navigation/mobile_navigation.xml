@@ -7,19 +7,40 @@
 
     <fragment
         android:id="@+id/nav_home"
-        android:name="com.example.ddzppm.ui.home.HomeFragment"
-        android:label="@string/menu_home"
-        tools:layout="@layout/fragment_home" />
+        android:name="com.example.ddzppm.ui.zad1.Zad1Fragment"
+        android:label="@string/zad1"
+        tools:layout="@layout/fragment_zad1" />
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="com.example.ddzppm.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:name="com.example.ddzppm.ui.zad2.Zad2Fragment"
+        android:label="@string/zad2"
+        tools:layout="@layout/fragment_zad2" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="com.example.ddzppm.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:name="com.example.ddzppm.ui.zad3.Zad3Fragment"
+        android:label="@string/zad3"
+        tools:layout="@layout/fragment_zad3" />
+    <fragment
+        android:id="@+id/zad4"
+        android:name="com.example.ddzppm.ui.zad4.Zad4Fragment"
+        android:label="@string/zad4"
+        tools:layout="@layout/fragment_zad4" />
+    <fragment
+        android:id="@+id/zad5"
+        android:name="com.example.ddzppm.ui.zad5.Zad5Fragment"
+        android:label="@string/zad5"
+        tools:layout="@layout/fragment_zad5" />
+    <fragment
+        android:id="@+id/zad6"
+        android:name="com.example.ddzppm.ui.zad6.Zad6Fragment"
+        android:label="@string/zad6"
+        tools:layout="@layout/fragment_zad6" />
+    <fragment
+        android:id="@+id/zad7"
+        android:name="com.example.ddzppm.ui.zad7.Zad7Fragment"
+        android:label="@string/zad7"
+        tools:layout="@layout/fragment_zad7" />
+
 </navigation>
