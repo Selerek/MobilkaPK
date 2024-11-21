@@ -58,7 +58,7 @@ public class Zad1Fragment extends Fragment {
                 }
                 else if (text1.isEmpty()){
                     if (checkbox.isChecked()) {
-                        Toast.makeText(requireContext(), "fddsgfdsgds", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(requireContext(), "NIE WPISANO TEKSTU", Toast.LENGTH_SHORT).show();
 
                     } else {
                         Snackbar snackbar = Snackbar.make(view, "NIE WPISANO TEKSTU", Snackbar.LENGTH_LONG);
